@@ -28,7 +28,6 @@ public class Cat {
         System.out.println("Name: " + name);
         System.out.println("Age: " + age);
         System.out.println("Weight: " + weight);
-        System.out.println("Test");
     }
 }
 
